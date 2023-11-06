@@ -1,0 +1,7 @@
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1620\bin\Debug\Prob1620.exe.config
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1620\bin\Debug\Prob1620.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1620\bin\Debug\Prob1620.pdb
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1620\obj\Debug\Prob1620.csproj.AssemblyReference.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1620\obj\Debug\Prob1620.csproj.CoreCompileInputs.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1620\obj\Debug\Prob1620.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1620\obj\Debug\Prob1620.pdb

@@ -1,0 +1,7 @@
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1978\bin\Debug\Prob1978.exe.config
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1978\bin\Debug\Prob1978.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1978\bin\Debug\Prob1978.pdb
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1978\obj\Debug\Prob1978.csproj.AssemblyReference.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1978\obj\Debug\Prob1978.csproj.CoreCompileInputs.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1978\obj\Debug\Prob1978.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1978\obj\Debug\Prob1978.pdb

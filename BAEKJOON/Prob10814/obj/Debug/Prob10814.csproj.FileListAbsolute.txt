@@ -1,0 +1,7 @@
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob10814\bin\Debug\Prob10814.exe.config
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob10814\bin\Debug\Prob10814.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob10814\bin\Debug\Prob10814.pdb
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob10814\obj\Debug\Prob10814.csproj.AssemblyReference.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob10814\obj\Debug\Prob10814.csproj.CoreCompileInputs.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob10814\obj\Debug\Prob10814.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob10814\obj\Debug\Prob10814.pdb

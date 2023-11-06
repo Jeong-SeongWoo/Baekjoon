@@ -1,0 +1,7 @@
+C:\wjdtjddn34\VSProjects\BAEKJOON\Peob24313\bin\Debug\Peob24313.exe.config
+C:\wjdtjddn34\VSProjects\BAEKJOON\Peob24313\bin\Debug\Peob24313.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Peob24313\bin\Debug\Peob24313.pdb
+C:\wjdtjddn34\VSProjects\BAEKJOON\Peob24313\obj\Debug\Prob24313.csproj.AssemblyReference.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Peob24313\obj\Debug\Prob24313.csproj.CoreCompileInputs.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Peob24313\obj\Debug\Peob24313.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Peob24313\obj\Debug\Peob24313.pdb

@@ -1,0 +1,7 @@
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5354\bin\Debug\Prob5354.exe.config
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5354\bin\Debug\Prob5354.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5354\bin\Debug\Prob5354.pdb
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5354\obj\Debug\Prob5354.csproj.AssemblyReference.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5354\obj\Debug\Prob5354.csproj.CoreCompileInputs.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5354\obj\Debug\Prob5354.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5354\obj\Debug\Prob5354.pdb

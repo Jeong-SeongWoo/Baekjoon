@@ -1,0 +1,7 @@
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2480\bin\Debug\Prob2480.exe.config
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2480\bin\Debug\Prob2480.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2480\bin\Debug\Prob2480.pdb
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2480\obj\Debug\Prob2480.csproj.AssemblyReference.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2480\obj\Debug\Prob2480.csproj.CoreCompileInputs.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2480\obj\Debug\Prob2480.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2480\obj\Debug\Prob2480.pdb

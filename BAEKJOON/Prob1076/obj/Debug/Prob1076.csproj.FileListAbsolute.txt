@@ -1,0 +1,7 @@
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1076\obj\Debug\Prob1076.csproj.AssemblyReference.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1076\obj\Debug\Prob1076.csproj.CoreCompileInputs.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1076\bin\Debug\Prob1076.exe.config
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1076\bin\Debug\Prob1076.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1076\bin\Debug\Prob1076.pdb
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1076\obj\Debug\Prob1076.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1076\obj\Debug\Prob1076.pdb

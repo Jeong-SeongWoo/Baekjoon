@@ -1,0 +1,7 @@
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5800\bin\Debug\Prob5800.exe.config
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5800\bin\Debug\Prob5800.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5800\bin\Debug\Prob5800.pdb
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5800\obj\Debug\Prob5800.csproj.AssemblyReference.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5800\obj\Debug\Prob5800.csproj.CoreCompileInputs.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5800\obj\Debug\Prob5800.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5800\obj\Debug\Prob5800.pdb

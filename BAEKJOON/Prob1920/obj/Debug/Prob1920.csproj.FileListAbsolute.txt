@@ -1,0 +1,7 @@
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1920\bin\Debug\Prob1920.exe.config
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1920\bin\Debug\Prob1920.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1920\bin\Debug\Prob1920.pdb
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1920\obj\Debug\Prob1920.csproj.AssemblyReference.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1920\obj\Debug\Prob1920.csproj.CoreCompileInputs.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1920\obj\Debug\Prob1920.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob1920\obj\Debug\Prob1920.pdb

@@ -1,0 +1,7 @@
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2960\bin\Debug\Prob2960.exe.config
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2960\bin\Debug\Prob2960.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2960\bin\Debug\Prob2960.pdb
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2960\obj\Debug\Prob2960.csproj.AssemblyReference.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2960\obj\Debug\Prob2960.csproj.CoreCompileInputs.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2960\obj\Debug\Prob2960.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2960\obj\Debug\Prob2960.pdb

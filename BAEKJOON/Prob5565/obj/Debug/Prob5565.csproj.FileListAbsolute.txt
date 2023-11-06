@@ -1,0 +1,7 @@
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5565\bin\Debug\Prob5565.exe.config
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5565\bin\Debug\Prob5565.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5565\bin\Debug\Prob5565.pdb
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5565\obj\Debug\Prob5565.csproj.AssemblyReference.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5565\obj\Debug\Prob5565.csproj.CoreCompileInputs.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5565\obj\Debug\Prob5565.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob5565\obj\Debug\Prob5565.pdb

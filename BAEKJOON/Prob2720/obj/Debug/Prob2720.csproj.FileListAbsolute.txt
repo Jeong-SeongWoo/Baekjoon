@@ -1,0 +1,7 @@
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2720\bin\Debug\Prob2720.exe.config
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2720\bin\Debug\Prob2720.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2720\bin\Debug\Prob2720.pdb
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2720\obj\Debug\Prob2720.csproj.AssemblyReference.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2720\obj\Debug\Prob2720.csproj.CoreCompileInputs.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2720\obj\Debug\Prob2720.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob2720\obj\Debug\Prob2720.pdb

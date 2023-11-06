@@ -1,0 +1,7 @@
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob9086\obj\Debug\Prob9086.csproj.AssemblyReference.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob9086\obj\Debug\Prob9086.csproj.CoreCompileInputs.cache
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob9086\bin\Debug\Prob9086.exe.config
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob9086\bin\Debug\Prob9086.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob9086\bin\Debug\Prob9086.pdb
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob9086\obj\Debug\Prob9086.exe
+C:\wjdtjddn34\VSProjects\BAEKJOON\Prob9086\obj\Debug\Prob9086.pdb
